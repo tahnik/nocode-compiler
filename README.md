@@ -9,7 +9,7 @@ Start by writing no code, as described in [No Code](https://github.com/kelseyhig
 ```
 ```
 
-The run the following command which will compile your no code program. You should see the following result.
+The run the following command which will compile your no code program. You should see the following result:
 
 ```
 ```
